@@ -56,10 +56,6 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "ci/cd",
-      fontAwesomeClassname: "fas fa-timeline-arrow"
-    },
-    {
       skillName: "github",
       fontAwesomeClassname: "fab fa-github"
     },
@@ -81,7 +77,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "linux",
-      fontAwesomeClassname: "fab fa-terminal"
+      fontAwesomeClassname: "fas fa-terminal"
     },
     {
       skillName: "npm",
@@ -109,7 +105,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "gcp",
-      fontAwesomeClassname: "fab fa-cloud"
+      fontAwesomeClassname: "fas fa-cloud"
     }
   ],
   display: true // Set false to hide this section, defaults to true
