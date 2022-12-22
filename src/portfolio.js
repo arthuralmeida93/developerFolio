@@ -17,7 +17,7 @@ const greeting = {
     "A versatile DevOps Engineer 🚀 having an experience of building, managing and monitoring complex cloud infrastructures and developing web applications with Python / Kubernetes / AWS / Docker and some other cool tools and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1iEYWVDJBoISiahCbKOl3ZY1luCiwS4Wr/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1sHW7tnuSzClLxylXuabyrK-HwQcnJQv_/view?usp=share_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -167,7 +167,7 @@ const workExperiences = {
       company: "Jumia Group",
       companylogo: require("./assets/images/Jumia-Logo.png"),
       date: "January 2022 – Present",
-      desc: "Manage multi cloud clusters infrastructure maintaining 99.99% uptime on our services"
+      desc: "Manage multi cloud clusters infrastructure maintaining 99% uptime on our services"
     },
     {
       role: "SRE/DevOps Team Lead",
